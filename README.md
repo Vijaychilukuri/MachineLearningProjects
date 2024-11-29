@@ -221,6 +221,8 @@ Predictive models can aid healthcare professionals in identifying at-risk patien
 The focus on recall and AUC over raw accuracy ensures that the model minimizes the risk of missing heart disease diagnoses.
 Ongoing research and advancements in AI and healthcare integration can lead to even more accurate and practical solutions for heart disease prediction.
 #### In conclusion, machine learning holds significant promise in transforming healthcare by providing tools for early prediction, personalized treatment, and better management of heart disease.
+![alt text](https://github.com/Vijaychilukuri/MachineLearningProjects/blob/e3f5afd9aaf427d3d4f06bf544cea38d0e5c1009/Blog/Robot-Thank-You.jpg)
+
 
 
 
