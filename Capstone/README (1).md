@@ -62,11 +62,11 @@ here is a demo,
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+![alt text](https://github.com/Vijaychilukuri/MachineLearningProjects/blob/ee5956940f7d18f58f027e6872f58b55a28c0877/Blog/demo1.jpg)
 
-<img src="demo/2.png" alt="workflow" width="70%">
+![alt text](https://github.com/Vijaychilukuri/MachineLearningProjects/blob/ee5956940f7d18f58f027e6872f58b55a28c0877/Blog/demo2.jpg)
 
-<img src="demo/3.png" alt="workflow" width="70%">
+![alt text](https://github.com/Vijaychilukuri/MachineLearningProjects/blob/ee5956940f7d18f58f027e6872f58b55a28c0877/Blog/demo3.jpg)
 
 
 # Dataset has been used:
