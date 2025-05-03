@@ -118,5 +118,5 @@ Movie Recommender System Data Analysis.ipynb
 
 Now run,
 ```bash
-streamlit run app.py
+streamlit run Movie_Recommender_System.py
 ```
